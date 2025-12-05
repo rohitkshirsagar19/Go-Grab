@@ -6,6 +6,10 @@
 
 **Go-Grab** is a high-performance TUI wrapper for `yt-dlp` built in **Go**. It replaces complex CLI flags with a beautiful, menu-driven interface to download media from **YouTube, Instagram, X (Twitter) and Reddit**.
 
+![Demo](demo/demo.gif)
+
+
+
 ## Features
 
   * **Universal Support:** Works out-of-the-box with 1,000+ sites (YouTube, Reels, Reddit, etc.).
